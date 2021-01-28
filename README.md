@@ -1,2 +1,2 @@
-# model
-A simple model portfolio
+# Model
+A simple model portfolio.
